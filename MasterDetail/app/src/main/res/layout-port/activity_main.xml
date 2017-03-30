@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
+<<<<<<< HEAD
     android:orientation="vertical" android:layout_width="match_parent"
+=======
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+>>>>>>> 4a6f75d860b2dea1454dcbef1f5d30d4bdc38d8f
     android:layout_height="match_parent">
 
     <fragment
         android:id="@+id/masterFragment"
         android:name="com.example.md.adrian.masterdetail.MasterFragment"
+<<<<<<< HEAD
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+=======
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+>>>>>>> 4a6f75d860b2dea1454dcbef1f5d30d4bdc38d8f
         tools:layout="@layout/master_layout" />
 </FrameLayout>

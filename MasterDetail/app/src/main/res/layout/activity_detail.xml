@@ -6,6 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.example.md.adrian.masterdetail.DetailActivity">
 
+<<<<<<< HEAD
 
     <fragment
         android:id="@+id/detailFragment"
@@ -14,4 +15,12 @@
         android:layout_height="match_parent"
         tools:layout="@layout/detail_layout" />
 
+=======
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.example.md.adrian.masterdetail.DetailFragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:layout="@layout/detail_layout"/>
+>>>>>>> 4a6f75d860b2dea1454dcbef1f5d30d4bdc38d8f
 </FrameLayout>

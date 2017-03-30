@@ -5,13 +5,21 @@
     android:orientation="vertical">
 
     <Button
+<<<<<<< HEAD
         android:id="@+id/basicInfoButton"
+=======
+        android:id="@+id/basicDataButton"
+>>>>>>> 4a6f75d860b2dea1454dcbef1f5d30d4bdc38d8f
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Dane podstawowe" />
 
     <Button
+<<<<<<< HEAD
         android:id="@+id/addressButton"
+=======
+        android:id="@+id/detailsButton"
+>>>>>>> 4a6f75d860b2dea1454dcbef1f5d30d4bdc38d8f
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Adres" />
